@@ -1,0 +1,57 @@
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csprojAssemblyReference.cache
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Form1.resources
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.patient_demographic_form.resources
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Properties.Resources.resources
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csproj.GenerateResource.cache
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.exe.config
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.exe
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.pdb
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.exe
+C:\Users\Golden Jet\Documents\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.pdb
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.exe
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.pdb
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.exe
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.pdb
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csprojAssemblyReference.cache
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Form1.resources
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_Allergy_Form.resources
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.patient_demographic_form.resources
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Properties.Resources.resources
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csproj.GenerateResource.cache
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csproj.CoreCompileInputs.cache
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_Family_History_Form.resources
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_General_Form.resources
+D:\Backup\PNW\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_Immunization_Form.resources
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.exe
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.pdb
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csprojAssemblyReference.cache
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Form1.resources
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_Allergy_Form.resources
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.patient_demographic_form.resources
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_Family_History_Form.resources
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_General_Form.resources
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_Immunization_Form.resources
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Properties.Resources.resources
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csproj.GenerateResource.cache
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.exe
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.pdb
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245Final.accdb
+C:\Users\acarosel\Desktop\245final_v2\ITS245\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.exe.config
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245Final.accdb
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.exe.config
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.exe
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\bin\Debug\ITS245-FinalProject.pdb
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csprojAssemblyReference.cache
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Form1.resources
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_Allergy_Form.resources
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.patient_demographic_form.resources
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_Family_History_Form.resources
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_General_Form.resources
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Patient_Immunization_Form.resources
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245_FinalProject.Properties.Resources.resources
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csproj.GenerateResource.cache
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.csproj.CoreCompileInputs.cache
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.exe
+D:\School\PNW\SEM4 FALL2020\ITS245\ITS245-FinalProject-20201211T034636Z-001\ITS245-FinalProject\ITS245-FinalProject\obj\Debug\ITS245-FinalProject.pdb
